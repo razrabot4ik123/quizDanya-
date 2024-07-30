@@ -79,3 +79,10 @@ function nextQuestion() {
     alert("Ответь сначало");
   }
 }
+
+document
+  .querySelector(".reload-link")
+  .addEventListener("click", function (event) {
+    event.preventDefault();
+    location.reload();
+  });
