@@ -60,7 +60,7 @@ const questions = [
   },
   {
     question: "Каким редактором пользуется Даня?",
-    answer: "vim",
+    answer: "vsCode",
     options: ["vsCode", "vim", "Emacs"],
   },
   {
@@ -70,7 +70,7 @@ const questions = [
   },
   {
     question: "Наш герой любит wordpress?",
-    answer: "нет",
+    answer: "обожает",
     options: ["нет", "да", "обожает", "не знаю"],
   },
   {
